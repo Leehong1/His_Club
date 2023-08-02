@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../AnimeProfile"
+		},
+		{
+			"path": "../Flags"
+		},
+		{
+			"path": "../Learning Code"
+		},
+		{
+			"path": "../old_Website"
+		},
+		{
+			"path": "../Shop & App"
+		},
+		{
+			"path": "../Website"
+		},
+		{
+			"path": "../Website_pfp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AnimeProfile"
+	}
+}
